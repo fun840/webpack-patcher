@@ -6,6 +6,7 @@
 // @match       https://example.com/
 // @grant       none
 // @description A small userscript for patching webpack
+// @icon        https://raw.githubusercontent.com/webpack/webpack.js.org/main/src/favicon.ico
 // @run-at      document-start
 // ==/UserScript==
 
